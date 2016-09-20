@@ -21,6 +21,7 @@ now go to http://localhost/Google-Places-location-search/public/
 
 ### For code reviewers
 For those who want to examine the code I personally wrote, please check files below:
+
 [resources/views/index.blade.php](resources/views/index.blade.php)
 
 [resources/views/layout.blade.php](resources/views/layout.blade.php)
